@@ -35,7 +35,7 @@ A lightweight ASP.NET Core Razor Pages web application that allows users to brow
 3.1 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/order-viewer.git
+git clone https://github.com/MrKDJnr/TrackOrdersApp.git
 cd order-viewer
 
 3.2 Configure the Database Connection
